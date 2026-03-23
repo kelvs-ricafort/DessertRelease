@@ -1,4 +1,4 @@
-package com.kelvsricafort101.wordpress.dessertrelease
+package com.kelvsricafort101.wordpress.dessertrelease.data
 
 import android.util.Log
 import androidx.datastore.core.DataStore
